@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7276919f-c55d-41de-960a-532744c7c4c2" name="Default Changelist" comment="fuza">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/NT_AUTHORITY_NETWORK_SERVICE.8DVxiw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/NT_SERVICE_SQLServerReportingServices.XISNGw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/RSExecRole.CJpGzw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/db_datareader.To823g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/db_datawriter._tp55w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/db_owner.souIfA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/dbo.sYMBAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/guest.2C3iBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServer.tw3vLA/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/NT_AUTHORITY_NETWORK_SERVICE.8DVxiw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/NT_SERVICE_SQLServerReportingServices.XISNGw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/RSExecRole.CJpGzw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/db_datareader.To823g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/db_datawriter._tp55w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/db_owner.souIfA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/dbo.sYMBAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/guest.2C3iBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/ReportServerTempDB.6TtflA/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/first.sNLOBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/first.sNLOBQ/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/first.sNLOBQ/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/first.sNLOBQ/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/first.sNLOBQ/schema/db_datareader.To823g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/first.sNLOBQ/schema/db_datawriter._tp55w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/first.sNLOBQ/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/first.sNLOBQ/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/first.sNLOBQ/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/first.sNLOBQ/schema/db_owner.souIfA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/first.sNLOBQ/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/first.sNLOBQ/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/first.sNLOBQ/schema/guest.2C3iBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/first.sNLOBQ/schema/new_schema_zss.u-y44A.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/first.sNLOBQ/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/DESKTOP-CLJUAG5_Simon.hKpNzg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/NT_AUTHORITY_NETWORK_SERVICE.8DVxiw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/NT_SERVICE_SQLServerReportingServices.XISNGw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/RSExecRole.CJpGzw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/db_datareader.To823g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/db_datawriter._tp55w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/db_owner.souIfA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/guest.2C3iBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/master.YiqNvw/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/model.KfszBg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/model.KfszBg/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/model.KfszBg/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/model.KfszBg/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/model.KfszBg/schema/db_datareader.To823g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/model.KfszBg/schema/db_datawriter._tp55w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/model.KfszBg/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/model.KfszBg/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/model.KfszBg/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/model.KfszBg/schema/db_owner.souIfA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/model.KfszBg/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/model.KfszBg/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/model.KfszBg/schema/guest.2C3iBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/model.KfszBg/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/DESKTOP-CLJUAG5_Simon.hKpNzg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/DatabaseMailUserRole.8_5cew.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/NT_AUTHORITY_NETWORK_SERVICE.8DVxiw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/NT_SERVICE_SQLServerReportingServices.XISNGw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/RSExecRole.CJpGzw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/SQLAgentOperatorRole.0TKOXA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/SQLAgentReaderRole.MDWBQA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/SQLAgentUserRole.-G0QHw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/TargetServersRole.tedgoQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/db_datareader.To823g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/db_datawriter._tp55w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/db_owner.souIfA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/db_ssisadmin.hKdIaQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/db_ssisltduser.nKx1mg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/db_ssisoperator.TxzNGQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/dbo.sYMBAA.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/guest.2C3iBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/managed_backup.YmLD7g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/managed_backup.YmLD7g.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/smart_admin.WcEq9g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/smart_admin.WcEq9g.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/msdb.pEgzAA/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/new_database.Om3BCg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/new_database.Om3BCg/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/new_database.Om3BCg/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/new_database.Om3BCg/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/new_database.Om3BCg/schema/db_datareader.To823g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/new_database.Om3BCg/schema/db_datawriter._tp55w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/new_database.Om3BCg/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/new_database.Om3BCg/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/new_database.Om3BCg/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/new_database.Om3BCg/schema/db_owner.souIfA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/new_database.Om3BCg/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/new_database.Om3BCg/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/new_database.Om3BCg/schema/guest.2C3iBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/new_database.Om3BCg/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/rrrrrrrrrrrrr.8spKWg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/rrrrrrrrrrrrr.8spKWg/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/rrrrrrrrrrrrr.8spKWg/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/rrrrrrrrrrrrr.8spKWg/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/rrrrrrrrrrrrr.8spKWg/schema/db_datareader.To823g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/rrrrrrrrrrrrr.8spKWg/schema/db_datawriter._tp55w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/rrrrrrrrrrrrr.8spKWg/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/rrrrrrrrrrrrr.8spKWg/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/rrrrrrrrrrrrr.8spKWg/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/rrrrrrrrrrrrr.8spKWg/schema/db_owner.souIfA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/rrrrrrrrrrrrr.8spKWg/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/rrrrrrrrrrrrr.8spKWg/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/rrrrrrrrrrrrr.8spKWg/schema/guest.2C3iBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/rrrrrrrrrrrrr.8spKWg/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/second.dET7yQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/second.dET7yQ/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/second.dET7yQ/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/second.dET7yQ/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/second.dET7yQ/schema/db_datareader.To823g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/second.dET7yQ/schema/db_datawriter._tp55w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/second.dET7yQ/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/second.dET7yQ/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/second.dET7yQ/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/second.dET7yQ/schema/db_owner.souIfA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/second.dET7yQ/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/second.dET7yQ/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/second.dET7yQ/schema/guest.2C3iBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/second.dET7yQ/schema/new_schema_zss.u-y44A.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/second.dET7yQ/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/tempdb.Uqu0yw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/tempdb.Uqu0yw/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_datareader.To823g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_datawriter._tp55w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_owner.souIfA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/tempdb.Uqu0yw/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/tempdb.Uqu0yw/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/tempdb.Uqu0yw/schema/guest.2C3iBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/tempdb.Uqu0yw/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/third.Z4WTBg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/third.Z4WTBg/schema/INFORMATION_SCHEMA.NBgcMw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/third.Z4WTBg/schema/db_accessadmin.KqpDJg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/third.Z4WTBg/schema/db_backupoperator.R9Ifpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/third.Z4WTBg/schema/db_datareader.To823g.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/third.Z4WTBg/schema/db_datawriter._tp55w.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/third.Z4WTBg/schema/db_ddladmin.hGWOrg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/third.Z4WTBg/schema/db_denydatareader.2lWItw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/third.Z4WTBg/schema/db_denydatawriter.iqHLwA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/third.Z4WTBg/schema/db_owner.souIfA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/third.Z4WTBg/schema/db_securityadmin.Dj5jKg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/third.Z4WTBg/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/third.Z4WTBg/schema/guest.2C3iBQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/4f8a9024-a038-4b95-8e7b-1ba149dd393a/storage_v2/_src_/database/third.Z4WTBg/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/flask_zss.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="first: database" type="ccb7ac2a:MsImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="first: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="db_owner: schema" type="2865ee2e:MsImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="first: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+        <item name="third: database" type="ccb7ac2a:MsImplModel$Database" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\89638\PycharmProjects\flask_zss\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YtV7uYiGYmGWaEeuWQK279WGou" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql&#10;sqlserver" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\89638\PycharmProjects\flask_zss" />
+      <recent name="C:\Users\89638\PycharmProjects\flask_zss\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.x (1)">
+    <configuration name="moduleX" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask_zss" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/package1/package2-1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/package1/package2-1/moduleX.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="x (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask_zss" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/x.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="x" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask_zss" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/a/b" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a/b/x.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app1.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="flask_zss" />
+      <option name="target" value="$PROJECT_DIR$/app1.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="flask_zss" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flask_zss" type="Python.FlaskServer">
+      <module name="flask_zss" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.x (1)" />
+        <item itemvalue="Python.x" />
+        <item itemvalue="Python.x" />
+        <item itemvalue="Flask server.Flask (app1.py)" />
+        <item itemvalue="Flask server.Flask (app.py)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7276919f-c55d-41de-960a-532744c7c4c2" name="Default Changelist" comment="" />
+      <created>1583761714198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583761714198</updated>
+      <workItem from="1583761716357" duration="824000" />
+      <workItem from="1583852550572" duration="22126000" />
+      <workItem from="1583973297404" duration="8652000" />
+      <workItem from="1584235242464" duration="6000" />
+      <workItem from="1595726955899" duration="6302000" />
+      <workItem from="1595733365367" duration="5128000" />
+      <workItem from="1595738510633" duration="7533000" />
+      <workItem from="1595756091736" duration="3216000" />
+      <workItem from="1595861726033" duration="1264000" />
+      <workItem from="1595863087369" duration="23000" />
+      <workItem from="1595863123211" duration="4000" />
+      <workItem from="1595863179666" duration="11443000" />
+      <workItem from="1595899332836" duration="1777000" />
+    </task>
+    <task id="LOCAL-00001" summary="fuza">
+      <created>1595897248440</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595897248440</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fuza">
+      <created>1595897432030</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595897432030</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fuza">
+      <created>1595899411298</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595899411298</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fuza">
+      <created>1595900644325</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595900644325</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fuza">
+      <created>1595901060841</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595901060841</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fuza" />
+    <option name="LAST_COMMIT_MESSAGE" value="fuza" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="319" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595745261507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="458" y="319" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595745261507" />
+    <state x="560" y="110" key="CommitChangelistDialog2" timestamp="1595901108567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="110" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595901108567" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1595737880126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1920.1040@0.0.1920.1040" timestamp="1595737880126" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1595900968816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595900968816" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1595900521288">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595900521288" />
+    <state x="833" y="411" width="273" height="291" key="Github.ShareDialog" timestamp="1595899997944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="411" width="273" height="291" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595899997944" />
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom" timestamp="1595899296469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595899296469" />
+    <state width="1877" height="276" key="GridCell.Tab.0.center" timestamp="1595899296469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595899296469" />
+    <state width="1877" height="276" key="GridCell.Tab.0.left" timestamp="1595899296469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595899296469" />
+    <state width="1877" height="276" key="GridCell.Tab.0.right" timestamp="1595899296469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595899296469" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1595740578615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1595740578615" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1595899132748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595899132748" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1595899571639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595899571639" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1595869934400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1595869934400" />
+    <state x="714" y="367" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1595740601832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="367" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040@0.0.1920.1040" timestamp="1595740601832" />
+    <state x="676" y="123" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1595735076855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="123" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595735076855" />
+    <state x="750" y="123" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1595737766662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="750" y="123" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595737766662" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1595863123254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595863123254" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595899973479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595899973479" />
+    <state x="636" y="253" width="647" height="534" key="find.popup" timestamp="1595899499418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="253" width="647" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595899499418" />
+    <state x="682" y="311" key="git4idea.merge.GitPullDialog" timestamp="1595900290415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595900290415" />
+    <state x="764" y="385" key="git4idea.rebase.GitRebaseDialog" timestamp="1595898256921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="385" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595898256921" />
+    <state x="744" y="361" key="git4idea.ui.GitTagDialog" timestamp="1595900784279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="361" key="git4idea.ui.GitTagDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595900784279" />
+    <state x="790" y="311" key="svn.repositoryBrowser" timestamp="1595897955366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="311" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1595897955366" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flask_zss$x__1_.coverage" NAME="x (1) Coverage Results" MODIFIED="1595895066585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_zss$flask_zss.coverage" NAME="flask_zss Coverage Results" MODIFIED="1595737950030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flask_zss$Flask__app1_py_.coverage" NAME="Flask (app1.py) Coverage Results" MODIFIED="1595868431936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_zss$moduleX.coverage" NAME="moduleX Coverage Results" MODIFIED="1595868301899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/package1/package2-1" />
+    <SUITE FILE_PATH="coverage/flask_zss$x.coverage" NAME="x Coverage Results" MODIFIED="1595871960910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/a/b" />
+    <SUITE FILE_PATH="coverage/flask_zss$Flask__flaskr___init___py_.coverage" NAME="Flask (flaskr/__init__.py) Coverage Results" MODIFIED="1595860894869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/flask_zss$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1595868422966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_zss$auth.coverage" NAME="auth Coverage Results" MODIFIED="1595861039263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flaskr" />
+  </component>
+</project>
