@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form method="post">
+
+    {{ login_form.username1.label }}{{ login_form.username1 }}
+    {{ login_form.password1.label }}{{ login_form.password1}}
+    {{ login_form.submit1 }}
+    {% for flashed_message in get_flashed_messages() %}
+    {{ flashed_message }}
+    {% endfor %}
+</form>
+
+</body>
+</html>

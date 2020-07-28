@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+这是模板 <br>
+这是首页 <br>
+
+{{ template_zhanwei }} <br>
+{{ template_zhanwei|upper }} <br>
+{% for num in my_dict %}
+    {% if num>3 %}
+    {{ num }}<br>
+    {% endif %}
+{% endfor %}
+<hr>
+{{ my_dict }}
+
+<form method="post">
+    <label>用户名</label><input type="text"  name="username"><br>
+    <label>密码</label><input type="password"  name="password"><br>
+    <input type="submit"  value="提交"><br>
+
+    {% for flashed_message in get_flashed_messages() %}
+    {{ flashed_message }}<br>
+    {% endfor %}
+</form>
+
+
+<hr>
+<form method="post">
+    {{ login_form.csrf_token() }}
+    {{ login_form.username1.label }}{{ login_form.username1 }}
+    {{ login_form.password1.label }}{{ login_form.password1}}
+    {{ login_form.submit1 }}
+    {{ login_form.selectfield.label }}{{ login_form.selectfield }}
+</form>
+
+</body>
+</html>
+
