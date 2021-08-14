@@ -35,7 +35,7 @@ db.create_all()
 for foo in Role.query.all():
     print(foo.id,foo.name)
 
-print(Role.query.get(1).name)
+#print(Role.query.get(1).name)
 
 class LoginForm(FlaskForm):
     username1=StringField('用户名：')
