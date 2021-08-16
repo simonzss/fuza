@@ -1,3 +1,5 @@
+from typing import Iterable
+
 from sqlalchemy import create_engine,text
 from sqlalchemy import MetaData
 #engine = create_engine("mssql+pyodbc://sa:11111111@11111", echo=True)
@@ -16,11 +18,19 @@ aa=0
 with engine.connect() as conn:
      #result = conn.execute(text("SELECT 单位类型,审核类型,详细名称 FROM month_1to7 where 行业代码_17 = :pr"),{"pr":8415})
      #参数用 :pr 表示，注意这里的参数是字典形式，如果有多个参数，则传递字典列表
-     result = conn.execute(text("SELECT 单位类型,审核类型,详细名称 FROM month_1to7 where 行业代码_17 = :pr").bindparams(pr=8415))
+     # result = conn.execute(text("SELECT 单位类型,审核类型,详细名称 FROM month_1to7 where 行业代码_17 = :pr").bindparams(pr=8415))
+     result = conn.execute(text("SELECT 所属专业,count(*) as 数量  FROM [退出单位数据库].[dbo].[tk2129]  where 统计局代码 like :pr  group by 所属专业").bindparams(pr='6101%'))
      #result的结构是[(x,y,z),(x1,y1,z1)...(xn,yn,zn)]
-     for x,y,z in result:
-         #aa=row[2]
-         print(f"单位类型: {x}  审核类型: {y}    详细名称：{z}")
+     print(result,'result的打印结果')
+     print(isinstance(result, (set,list,dict,tuple,str,int,Iterable)))
+     for x,y in result:
+         print(type(x))
+         print(isinstance(x, (set, list, dict, tuple, str, int)))
+         print(x)
+         print(y)
+     # for x,y,z in result:
+     #     #aa=row[2]
+     #     print(f"单位类型: {x}  审核类型: {y}    详细名称：{z}")
 
 
 print(aa)
